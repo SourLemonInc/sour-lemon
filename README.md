@@ -5,5 +5,5 @@
 ## Installation
 
 ```
-$ npm install sour-lemon -g
+$ npm install @sour-lemon/sour-lemon -g
 ```
